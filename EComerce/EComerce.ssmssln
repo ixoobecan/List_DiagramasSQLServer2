@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EComerce", "EComerce\EComerce.ssmssqlproj", "{DC43EEDE-735A-42A6-92CB-5E7D9134DE43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC43EEDE-735A-42A6-92CB-5E7D9134DE43}.Default|Default.ActiveCfg = Default
+		{CB8CD8A8-B86D-4221-8B53-1C621BAFEB92}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6867B76C-FF0C-4F2B-9697-08CE19C8D1E1}
+	EndGlobalSection
+EndGlobal

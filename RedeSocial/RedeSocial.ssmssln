@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RedeSocial", "RedeSocial\RedeSocial.ssmssqlproj", "{18D7D4FA-4E77-402C-89F3-FC8A90C094C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D7D4FA-4E77-402C-89F3-FC8A90C094C2}.Default|Default.ActiveCfg = Default
+		{12F387F0-2CA9-426B-9D9E-577211D9A663}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FC5791-69B6-49AC-9698-23DB938EC37E}
+	EndGlobalSection
+EndGlobal

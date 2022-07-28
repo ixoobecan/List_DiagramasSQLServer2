@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Classificados", "Classificados\Classificados.ssmssqlproj", "{31FE4F9F-5D9A-492D-B2DA-343C24F14C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FE4F9F-5D9A-492D-B2DA-343C24F14C10}.Default|Default.ActiveCfg = Default
+		{BD81EF57-5CFE-44B4-8FED-3B25E81E5BEB}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781C2C6D-3F8B-47AA-9D38-437593B35F49}
+	EndGlobalSection
+EndGlobal
