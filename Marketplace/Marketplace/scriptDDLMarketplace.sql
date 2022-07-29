@@ -35,4 +35,6 @@ CREATE TABLE tb_compra (
 	Dia VARCHAR(50),
 );
 
-    
+   ALTER TABLE tb_produtos ADD Valor FLOAT NOT NULL;
+   SELECT * FROM tb_produtos 
+   --A tabela não criou valor pq eu ja tinha incluido produtos nela :) fica o aprendizado!
